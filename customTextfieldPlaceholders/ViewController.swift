@@ -9,7 +9,7 @@
 
 // What you need to do: Leave the textfield text in the storyboard blank.
 //                      Also, the text font and style you choose in the storyboard
-//                      will be the text that appears when you begin typing.
+//                      will be the text that appears when you begin typing. 
 
 import UIKit
 
